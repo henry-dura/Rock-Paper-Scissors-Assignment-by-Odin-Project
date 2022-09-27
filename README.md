@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors-Assignment-by-Odin-Project
 
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1024px-Rock-paper-scissors.svg.png "Game Diagram")
+
 In this project, the game is played five times between the computer and a player. Results are desplayed in the console and the final winner is also displayed in the console.
 
 
