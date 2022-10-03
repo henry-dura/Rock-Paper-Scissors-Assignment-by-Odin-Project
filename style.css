@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: papayawhip;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;   
+}
+
+.container{
+    width: 400px;
+    background-color:azure;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    
+}
+button{
+    width: 120px;
+    background-color: rgb(148, 185, 148);
+    font-weight: 900;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
